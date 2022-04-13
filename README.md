@@ -17,7 +17,7 @@ Before we started the analysis we needed to make a change in the csv original fi
 - Male and Subscribers are still the largest group who usually rides on Thursdays afternoon.
 - Symbol maps were showing the top starting and ending places.
 
-[link to dashboard](https://public.tableau.com/views/NYCbikesharingAnalysis/NYCbiking?:language=en-US&:display_count=n&:origin=viz_share_link)
+Click here to see all of visualizations:  [link to dashboard](https://public.tableau.com/views/NYCbikesharingAnalysis/NYCbiking?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Summary: 
 
