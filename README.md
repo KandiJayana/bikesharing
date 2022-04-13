@@ -34,12 +34,12 @@ Before we started the analysis we needed to make a change in the csv original fi
 
 
 - Symbol maps were showing the top starting and ending places:
-![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20starting.png)
+  - ![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20starting.png)
 
-![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20ending.png)
+  - ![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20ending.png)
 
 
-Click here to see all of visualizations:  [link to dashboard](https://public.tableau.com/views/NYCbikesharingAnalysis/NYCbiking?:language=en-US&:display_count=n&:origin=viz_share_link)
+Click here to see all of visualizations in Tableau:  [link to dashboard](https://public.tableau.com/views/NYCbikesharingAnalysis/NYCbiking?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Summary: 
 
