@@ -18,7 +18,7 @@ Before we started the analysis we needed to make a change in the csv original fi
 
 
 - Males are the largest group biking and their average time are higher than female:
-![This is an image (https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Checkout%20Times%20by%20Gender.png)
+![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Checkout%20Times%20by%20Gender.png)
 
 
 - The peak day and hour are Thursday at 6 pm:
@@ -37,6 +37,7 @@ Before we started the analysis we needed to make a change in the csv original fi
 ![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20starting.png)
 
 ![This is an image](https://github.com/KandiJayana/bikesharing/blob/6809f963f8f663827621b704cf0e6fc85c050922/Tableau%20Analysis/Symbol%20map%20for%20top%20ending.png)
+
 
 Click here to see all of visualizations:  [link to dashboard](https://public.tableau.com/views/NYCbikesharingAnalysis/NYCbiking?:language=en-US&:display_count=n&:origin=viz_share_link)
 
